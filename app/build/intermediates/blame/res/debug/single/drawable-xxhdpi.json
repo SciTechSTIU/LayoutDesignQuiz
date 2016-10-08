@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/administrator/AndroidStudioProjects/LayoutDesignQuiz/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_place.png",
+        "source": "/Users/administrator/AndroidStudioProjects/LayoutDesignQuiz/app/src/main/res/drawable-xxhdpi/ic_place.png"
+    },
+    {
+        "merged": "/Users/administrator/AndroidStudioProjects/LayoutDesignQuiz/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_mail.png",
+        "source": "/Users/administrator/AndroidStudioProjects/LayoutDesignQuiz/app/src/main/res/drawable-xxhdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/administrator/AndroidStudioProjects/LayoutDesignQuiz/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_phone.png",
+        "source": "/Users/administrator/AndroidStudioProjects/LayoutDesignQuiz/app/src/main/res/drawable-xxhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/administrator/AndroidStudioProjects/LayoutDesignQuiz/app/build/intermediates/res/merged/debug/drawable-xxhdpi/image_user_profile.png",
+        "source": "/Users/administrator/AndroidStudioProjects/LayoutDesignQuiz/app/src/main/res/drawable-xxhdpi/image_user_profile.png"
+    },
+    {
+        "merged": "/Users/administrator/AndroidStudioProjects/LayoutDesignQuiz/app/build/intermediates/res/merged/debug/drawable-xxhdpi/image_android_marshmallow.png",
+        "source": "/Users/administrator/AndroidStudioProjects/LayoutDesignQuiz/app/src/main/res/drawable-xxhdpi/image_android_marshmallow.png"
+    }
+]
